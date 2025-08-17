@@ -8,7 +8,6 @@ export default function Index() {
       <Text className="text-green-900 font-light  text-3xl">
   Hello with hex 🎨
 </Text>
-
-    </View>
+ </View>
   );
 }
