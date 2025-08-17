@@ -5,7 +5,10 @@ export default function Index() {
     <View
      className="flex-1 items-center justify-center"
     >
-      <Text className="text-2xl font-bold text-teal-950">HI</Text>
+      <Text className="text-green-900 font-light  text-3xl">
+  Hello with hex 🎨
+</Text>
+
     </View>
   );
 }
